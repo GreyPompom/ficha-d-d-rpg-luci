@@ -1,0 +1,13 @@
+# Luci direção visual e prompts
+
+Imagem final: luci.png. Gerada com a ferramenta integrada ImageGen e copiada para esta pasta. Referência: imagem enviada pelo jogador, usada como inspiração. A doninha é animal comum; os cogumelos da arte não concedem luz mecânica ou poderes.
+
+Luci tem aparência andrógina, baixa estatura, pele lilás muito clara, olhos roxos e cabelo verde com cogumelos bioluminescentes. Seu cajado é simples, de madeira com musgos e cogumelos. O caderno registra desenhos botânicos e perguntas. As roupas de couro/tecido e a faixa monástica sugerem sua passagem pelo monastério, sem armadura pesada. A doninha minúscula tem pelagem branca, olhos escuros e nariz rosado. A aparência etária foi mantida sem impor envelhecimento humano a um gnomo de 28 anos.
+
+## Prompt de geração
+
+Use case: stylized-concept. Create a new full-body fantasy character illustration of Luci for a D&D character documentation. Attached image is visual reference, not an edit target. Luci is a short forest gnome with androgynous appearance, very pale lilac skin, purple eyes, green hair with small bioluminescent mushrooms growing on the head. Do not assume a child or exaggerated adult age; age is 28 in a long-lived gnome society, face subtly age-neutral. Expression kind, curious, clever and playfully wry. Forest guardian and studious traveler, modest natural leather and cloth clothing, botanical details and a simple monastic sash suggesting training in a monastery; no heavy metal armor. Simple wooden staff with ordinary moss and mushrooms, no elaborate magical weapon. An open well-used notebook with botanical sketches held in the other hand. One tiny white weasel companion perched beside the notebook or on shoulder, ordinary animal with no magical powers. Painterly polished fantasy book illustration, clear silhouette and readable anatomy, soft forest background and delicate cool mushroom light. Show full body including feet. No text, no UI, no watermark. Preserve specified lilac skin and purple eyes rather than reference colors.
+
+## Prompt de revisão final
+
+Edit this Luci illustration with two precise color corrections only: the tiny weasel companion must have pure white fur everywhere, including head, back and ears (natural dark eyes and pink nose are okay); Luci skin must be clearly very pale lavender/lilac purple across face, hands and visible ears, not beige or pink. Preserve all other aspects: androgynous short forest gnome, green hair, purple eyes, bioluminescent mushrooms on head, simple wooden staff with moss and mushrooms, open botanical notebook, modest nature clothing and monastic sash, full-body framing, kind wry expression, forest background. No text or watermark.
