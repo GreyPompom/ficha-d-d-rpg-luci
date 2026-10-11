@@ -403,7 +403,8 @@
       "use": "Combate e escalada; CON +3 favorece concentração.",
       "ref": "Apêndice D, Urso Marrom, p. 312 (PDF 310)",
       "seen": true,
-      "note": ""
+      "note": "",
+      "originalBlock": "URSO MARROM\nBesta grande, imparcial \nClasse de Armadura 11 (armadura natural) \nPontos de Vida 34 (4d10 + 12) \nDeslocamento 12 m, escalada 9 m \nFOR \n19 (+4) \nDES \n10 (+0) \nCON \n16 (+3) \nINT \n2 (–4) \nSAB \n13 (+1) \nCAR \n7 (–2) \nPerícias Percepção +3 \nSentidos Percepção passiva 13 \nIdiomas – \nNível de Desafio 1 (200 XP) \nFaro Aguçado. O urso tem vantagem em testes de Sabedoria \n(Percepção) relacionados ao olfato.  \nAÇÕES \nAtaques Múltiplos. O urso realiza dois ataques: um com sua \nmordida e um com suas garras. \n Mordida. Ataque Corpo-a-Corpo com Arma: +5 para atingir, \nalcance 1,5 m, um alvo. Acerto: 8 (1d8 + 4) de dano perfurante. \nGarras. Ataque Corpo-a-Corpo com Arma: +5 para atingir, alcance \n1,5 m, um alvo. Acerto: 11 (2d6 + 4) de dano cortante."
     },
     {
       "name": "Lobo Atroz",
@@ -428,7 +429,8 @@
       "use": "Combate, perseguição e trabalho junto de aliados.",
       "ref": "Apêndice D, Lobo Atroz, p. 309 (PDF 307)",
       "seen": true,
-      "note": ""
+      "note": "",
+      "originalBlock": "LOBO ATROZ\nBesta grande, imparcial \nClasse de Armadura 14 (armadura natural) \nPontos de Vida 37 (5d10 + 10) \nDeslocamento 15 m \nFOR \n17 (+3) \nDES \n15 (+2) \nCON \n15 (+2) \nINT \n3 (–4) \nSAB \n12 (+1) \nCAR \n7 (–2) \nPerícias Furtividade +4, Percepção +3 \nSentidos Percepção passiva 13 \nIdiomas – \nNível de Desafio 1 (200 XP) \nAudição e Faro Aguçados. O lobo tem vantagem em testes de \nSabedoria (Percepção) relacionados à audição e ao olfato.  \nTáticas de Matilha. O lobo tem vantagem nas jogadas de ataque \ncontra uma criatura se, pelo menos, um dos aliados do lobo \nestiver a 1,5 metro da criaturas e não estiver incapacitado. \nAÇÕES \nMordida. Ataque Corpo-a-Corpo com Arma: +5 para atingir, \nalcance 1,5 m, um alvo. Acerto: 10 (2d6 + 3) de dano perfurante. \nSe o alvo for uma criatura, ela deve ser bem sucedida num teste \nde resistência de Força CD 13 ou será derrubada no chão."
     },
     {
       "name": "Aranha Gigante",
@@ -453,7 +455,8 @@
       "use": "Furtividade, tetos e controle a distância.",
       "ref": "Apêndice D, Aranha Gigante, p. 305 (PDF 303)",
       "seen": false,
-      "note": "Teia está marcada Recarrega 5–6; este livro não detalha a cadência dessa recarga. Combine o procedimento com o mestre, sem importar o Manual dos Monstros."
+      "note": "Teia está marcada Recarrega 5–6; este livro não detalha a cadência dessa recarga. Combine o procedimento com o mestre, sem importar o Manual dos Monstros.",
+      "originalBlock": "ARANHA GIGANTE\nBesta grande, imparcial \nClasse de Armadura 14 (armadura natural) \nPontos de Vida 26 (4d10 + 4) \nDeslocamento 9 m, escalada 9 m \nFOR \n14 (+2) \nDES \n16 (+3) \nCON \n12 (+1) \nINT \n2 (–4) \nSAB \n11 (+0) \nCAR \n4 (–3) \nPerícias Furtividade +7 \nSentidos percepção às cegas 3 m, visão no escuro 18 m, \nPercepção passiva 10 \nIdiomas – \nNível de Desafio 1 (200 XP) \nEscalada Aracnídea. A aranha pode escalar superfícies difíceis, \nincluindo tetos de cabeça para baixo, sem precisar realizar um \nteste de habilidade. \nSentido na Teia. Quando em contato com uma teia, a aranha sabe \na localização exata de qualquer outra criatura em contato com a \nmesma teia. \nAndar na Teia. A aranha ignora restrições de movimento causadas \npor estar numa teia. \nAÇÕES \n Mordida. Ataque Corpo-a-Corpo com Arma: +5 para atingir, \nalcance 1,5 m, uma criatura. Acerto: 7 (1d8 + 3) de dano \nperfurante e o alvo deve realizar um teste de resistência de \nConstituição CD 11, sofrendo 9 (2d8) de dano de veneno se falhar \nna resistência ou metade desse dano se obtiver sucesso. Se o \ndano de veneno reduzir o alvo a 0 pontos de vida, o alvo estará \nestável, porém, envenenado, por 1 hora e paralisado enquanto \nestiver envenenado dessa forma. \nTeia (Recarrega 5–6). Ataque à Distância com Arma: +5 para \natingir, alcance 9 m/ 18 m, uma criatura. Acerto: O alvo ficará \nimpedido pela teia. Com uma ação, o alvo impedido pode realizar \num teste de Força CD 12, rompendo a teia com sucesso. A teia \ntambém pode ser atacada e destruída (CA 10; 5 pv; \nvulnerabilidade a fogo; imune a dano de concussão, veneno e \npsíquico)."
     },
     {
       "name": "Cavalo de Guerra",
@@ -478,7 +481,8 @@
       "use": "Fuga rápida e investida em terreno aberto.",
       "ref": "Apêndice D, Cavalo de Guerra, p. 305 (PDF 303)",
       "seen": false,
-      "note": "Sem armadura de montaria gratuita. O bônus +4 é o que aparece neste PDF; não substituir por cálculo de outra fonte."
+      "note": "Sem armadura de montaria gratuita. O bônus +4 é o que aparece neste PDF; não substituir por cálculo de outra fonte.",
+      "originalBlock": "CAVALO DE GUERRA\nBesta grande, imparcial \nClasse de Armadura 11 \nPontos de Vida 19 (3d10 + 3) \nDeslocamento 18 m \nFOR \n18 (+4) \nDES \n12 (+1) \nCON \n13 (+1) \nINT \n2 (–4) \nSAB \n12 (+1) \nCAR \n7 (–2) \nSentidos Percepção passiva 11 \nIdiomas – \nNível de Desafio 1/2 (100 XP) \nAtropelar. Se o cavalo se mover, pelo menos, 6 metros em linha \nreta em direção de um alvo logo antes de atingi-lo com seu ataque \nde cascos, o alvo deve ser bem sucedido num teste de resistência \nde Força CD 14 para não cair no chão. Se o alvo cair no chão, o \ncavalo poderá realizar uma ação bônus para realizar outro ataque \nde cascos contra ele. \nAÇÕES \nCascos. Ataque Corpo-a-Corpo com Arma: +4 para atingir, alcance \n1,5 m, um alvo. Acerto: 11 (2d6 + 4) de dano de concussão. \nVARIAÇÃO: ARMADURA PARA CAVALO DE GUERRA \nUm cavalo de guerra de armadura terá uma Classe de Armadura \nbaseada no tipo de armadura vestida (veja o capítulo 5 para mais \ninformações sobre armaduras). A Classe de Armadura dele inclui o \nmodificador de Destreza do cavalo, quando aplicável. \nCA Armadura CA Armadura \n12 Armadura de couro 16 Cota de malha \n13 Gibão de peles 17 Cota de talas \n14 Cota de anéis 18 Placas \n15 Brunea"
     },
     {
       "name": "Cavalo de Montaria",
@@ -503,7 +507,8 @@
       "use": "Fuga e viagem, com pouco PV e CA.",
       "ref": "Apêndice D, Cavalo de Montaria, p. 306 (PDF 304)",
       "seen": false,
-      "note": "Preservado o bônus +2 de ataque impresso, embora pareça atípico."
+      "note": "Preservado o bônus +2 de ataque impresso, embora pareça atípico.",
+      "originalBlock": "CAVALO DE MONTARIA\nBesta grande, imparcial \nClasse de Armadura 10 \nPontos de Vida 13 (2d10 + 2) \nDeslocamento 18 m \nFOR \n16 (+3) \nDES \n10 (+0) \nCON \n12 (+1) \nINT \n2 (–4) \nSAB \n11 (+0) \nCAR \n7 (–2) \nSentidos Percepção passiva 10 \nIdiomas – \nNível de Desafio 1/4 (50 XP) \nAÇÕES \nCascos. Ataque Corpo-a-Corpo com Arma: +2 para atingir, alcance \n1,5 m, um alvo. Acerto: 8 (2d4 + 3) de dano de concussão."
     },
     {
       "name": "Gato",
@@ -528,7 +533,8 @@
       "use": "Infiltração discreta; 2 PV e sem visão no escuro no bloco.",
       "ref": "Apêndice D, Gato, p. 308 (PDF 306)",
       "seen": false,
-      "note": ""
+      "note": "",
+      "originalBlock": "GATO\nBesta miúdo, imparcial \nClasse de Armadura 12 \nPontos de Vida 2 (1d4) \nDeslocamento 12 m, escalada 9 m \nFOR \n3 (–4) \nDES \n15 (+2) \nCON \n10 (+0) \nINT \n3 (–4) \nSAB \n12 (+1) \nCAR \n7 (–2) \nPerícias Furtividade +4, Percepção +3 \nSentidos Percepção passiva 13 \nIdiomas – \nNível de Desafio 0 (10 XP) \nFaro Aguçado. O gato tem vantagem em testes de Sabedoria \n(Percepção) relacionados ao olfato.  \nAÇÕES \nGarras. Ataque Corpo-a-Corpo com Arma: +0 para atingir, alcance \n1,5 m, um alvo. Acerto: 1 de dano cortante."
     },
     {
       "name": "Javali",
@@ -553,7 +559,8 @@
       "use": "Investida e sobrevivência pontual; inferior às duas formas confirmadas.",
       "ref": "Apêndice D, Javali, p. 308 (PDF 306)",
       "seen": false,
-      "note": ""
+      "note": "",
+      "originalBlock": "JAVALI\nBesta médio, imparcial \nClasse de Armadura 11 (armadura natural) \nPontos de Vida 11 (2d8 + 2) \nDeslocamento 12 m \nFOR \n13 (+1) \nDES \n11 (+0) \nCON \n12 (+1) \nINT \n2 (–4) \nSAB \n9 (–1) \nCAR \n5 (–3) \nSentidos Percepção passiva 9 \nIdiomas – \nNível de Desafio 1/4 (50 XP) \nInvestida. Se o javali se mover, pelo menos, 6 metros em linha \nreta em direção de uma criatura logo antes de atingi-la com seu \nataque de presa, o alvo sofre 3 (1d6) de dano cortante extra e \ndeve ser bem sucedido num teste de resistência de Força CD 11 \npara não cair no chão. \nImplacável (Recarrega após o javali terminar um descanso curto \nou longo). Se o javali sofrer dano que o reduziria a 0 pontos de \nvida, a não ser que o dano seja 7 ou mais ou de um acerto crítico, \nele cairá a 1 ponto de vida, no lugar. \nAÇÕES \n Presas. Ataque Corpo-a-Corpo com Arma: +3 para atingir, alcance \n1,5 m, um alvo. Acerto: 4 (1d6 + 1) de dano cortante."
     },
     {
       "name": "Leão",
@@ -578,7 +585,8 @@
       "use": "Combate de investida e mobilidade.",
       "ref": "Apêndice D, Leão, p. 308 (PDF 306)",
       "seen": false,
-      "note": "INT 3 vem com modificador −3 no bloco, incoerente com a tabela do cap. 7 (seria −4). Luci mantém INT 15 (+2), então esse erro não altera sua forma."
+      "note": "INT 3 vem com modificador −3 no bloco, incoerente com a tabela do cap. 7 (seria −4). Luci mantém INT 15 (+2), então esse erro não altera sua forma.",
+      "originalBlock": "LEÃO\nBesta grande, imparcial \nClasse de Armadura 12 \nPontos de Vida 26 (4d10 + 4) \nDeslocamento 15 m \nFOR \n17 (+3) \nDES \n15 (+2) \nCON \n13 (+1) \nINT \n3 (–3) \nSAB \n12 (+1) \nCAR \n8 (–1) \nPerícias Furtividade +6, Percepção +3 \nSentidos Percepção passiva 13 \nIdiomas – \nNível de Desafio 1 (200 XP) \nBote. Se o leão se mover, pelo menos, 6 metros em linha reta em \ndireção de um alvo logo antes de atingi-lo com seu ataque de \ngarra, o alvo deve ser bem sucedido num teste de resistência de \nForça CD 13 para não cair no chão. Se o alvo cair no chão, o leão \npoderá realizar uma ação bônus para realizar um ataque de \nmordida contra ele. \nFaro Aguçado. O leão tem vantagem em testes de Sabedoria \n(Percepção) relacionados ao olfato.  \nSalto em Corrida. Como parte do seu movimento e depois de uma \ncorrida inicial de 3 metros, o leão pode realizar um salto em \ndistância de até 7,5 metros. \nTáticas de Matilha. O leão tem vantagem nas jogadas de ataque \ncontra uma criatura se, pelo menos, um dos aliados do leão \nestiver a 1,5 metro da criaturas e não estiver incapacitado. \nAÇÕES \nMordida. Ataque Corpo-a-Corpo com Arma: +5 para atingir, \nalcance 1,5 m, um alvo. Acerto: 7 (1d8 + 3) de dano perfurante. \nGarras. Ataque Corpo-a-Corpo com Arma: +5 para atingir, alcance \n1,5 m, um alvo. Acerto: 6 (1d6 + 3) de dano cortante."
     },
     {
       "name": "Lobo",
@@ -603,7 +611,8 @@
       "use": "Exploração e combate em espaços menores.",
       "ref": "Apêndice D, Lobo, p. 308 (PDF 306)",
       "seen": false,
-      "note": "Ataque continua utilizável; queda fica pendente de CD definida pelo mestre. Não inventar CD 11 de outra fonte. Estatísticas continuam na p. 309 (PDF 307)."
+      "note": "Ataque continua utilizável; queda fica pendente de CD definida pelo mestre. Não inventar CD 11 de outra fonte. Estatísticas continuam na p. 309 (PDF 307).",
+      "originalBlock": "LOBO\nBesta médio, imparcial \nClasse de Armadura 13 (armadura natural) \nPontos de Vida 11 (2d8 + 2) \nDeslocamento 12 m \nFOR \n12 (+1) \nDES \n15 (+2) \nCON \n12 (+1) \nINT \n3 (–4) \nSAB \n12 (+1) \nCAR \n6 (–2) \nPerícias Furtividade +4, Percepção +3 \nSentidos Percepção passiva 13 \nIdiomas – \nNível de Desafio 1/4 (50 XP) \nAudição e Faro Aguçados. O lobo tem vantagem em testes de \nSabedoria (Percepção) relacionados à audição e ao olfato.  \nTáticas de Matilha. O lobo tem vantagem nas jogadas de ataque \ncontra uma criatura se, pelo menos, um dos aliados do lobo \nestiver a 1,5 metro da criaturas e não estiver incapacitado. \nAÇÕES \nMordida. Ataque Corpo-a-Corpo com Arma: +4 para atingir, \nalcance 1,5 m, um alvo. Acerto: 7 (2d4 + 2) de dano perfurante. Se \no alvo for uma criatura, ele deve ser bem sucedido num teste de \nresistência de Força para não cair no chão."
     },
     {
       "name": "Mastim",
@@ -628,7 +637,8 @@
       "use": "Rastrear por sentidos e aparentar cão comum; poucos PV.",
       "ref": "Apêndice D, Mastim, p. 309 (PDF 307)",
       "seen": false,
-      "note": ""
+      "note": "",
+      "originalBlock": "MASTIM\nBesta médio, imparcial \nClasse de Armadura 12 \nPontos de Vida 5 (1d8 + 1) \nDeslocamento 12 m \nFOR \n13 (+1) \nDES \n14 (+2) \nCON \n12 (+1) \nINT \n3 (–4) \nSAB \n12 (+1) \nCAR \n7 (–2) \nPerícias Percepção +3 \nSentidos Percepção passiva 13 \nIdiomas – \nNível de Desafio 1/8 (25 XP) \nAudição e Olfato Aguçados. O mastim tem vantagem em testes \nde Sabedoria (Percepção) relacionados à audição e ao olfato.  \nAÇÕES \n Mordida. Ataque Corpo-a-Corpo com Arma: +3 para atingir, \nalcance 1,5 m, um alvo. Acerto: 4 (1d6 + 1) de dano perfurante. Se \no alvo for uma criatura, ela deve ser bem sucedida num teste de \nresistência de Força CD 11 para não cair no chão."
     },
     {
       "name": "Mula",
@@ -653,7 +663,8 @@
       "use": "Transporte de carga e estabilidade.",
       "ref": "Apêndice D, Mula, p. 309 (PDF 307)",
       "seen": false,
-      "note": ""
+      "note": "",
+      "originalBlock": "MULA\nBesta médio, imparcial \nClasse de Armadura 10 \nPontos de Vida 11 (2d8 + 2) \nDeslocamento 12 m \nFOR \n14 (+2) \nDES \n10 (+0) \nCON \n13 (+1) \nINT \n2 (–4) \nSAB \n10 (+0) \nCAR \n5 (–3) \nSentidos Percepção passiva 10 \nIdiomas – \nNível de Desafio 1/8 (25 XP) \nBesta de Carga. A mula é considerada como um animal Grande \ncom os propósitos de determinar sua capacidade de carga. \nEstável. Sempre que a mula poderia cair no chão, ela poderá \npermanecer de pé se for bem sucedida num teste de resistência \nde Destreza CD 10. \nAÇÕES \nCascos. Ataque Corpo-a-Corpo com Arma: +2 para atingir, alcance \n1,5 m, um alvo. Acerto: 4 (1d4 + 2) de dano de concussão."
     },
     {
       "name": "Pantera",
@@ -678,7 +689,8 @@
       "use": "Furtividade, escalada e fuga.",
       "ref": "Apêndice D, Pantera, p. 310 (PDF 308)",
       "seen": false,
-      "note": ""
+      "note": "",
+      "originalBlock": "PANTERA\nBesta médio, imparcial \nClasse de Armadura 12 \nPontos de Vida 13 (3d8) \nDeslocamento 15 m, escalada 12 m \nFOR \n14 (+2) \nDES \n15 (+2) \nCON \n10 (+0) \nINT \n3 (–4) \nSAB \n14 (+2) \nCAR \n7 (–2) \nPerícias Furtividade +6, Percepção +4 \nSentidos Percepção passiva 14 \nIdiomas – \nNível de Desafio 1/4 (50 XP) \nBote. Se a pantera se mover, pelo menos, 6 metros em linha reta \nem direção de um alvo logo antes de atingi-lo com seu ataque de \ngarra, o alvo deve ser bem sucedido num teste de resistência de \nForça CD 12 para não cair no chão. Se o alvo cair no chão, a \npantera poderá realizar uma ação bônus para realizar um ataque \nde mordida contra ele. \nFaro Aguçado. A pantera tem vantagem em testes de Sabedoria \n(Percepção) relacionados ao olfato.  \nAÇÕES \nMordida. Ataque Corpo-a-Corpo com Arma: +4 para atingir, \nalcance 1,5 m, um alvo. Acerto: 5 (1d6 + 2) de dano perfurante. \nGarras. Ataque Corpo-a-Corpo com Arma: +4 para atingir, alcance \n1,5 m, um alvo. Acerto: 4 (1d4 + 2) de dano cortante."
     },
     {
       "name": "Rato",
@@ -703,7 +715,8 @@
       "use": "Infiltração em passagens minúsculas; 1 PV.",
       "ref": "Apêndice D, Rato, p. 310 (PDF 308)",
       "seen": false,
-      "note": "O bloco continua na p. 311 (PDF 309)."
+      "note": "O bloco continua na p. 311 (PDF 309).",
+      "originalBlock": "RATO\nBesta miúdo, imparcial \nClasse de Armadura 10 \nPontos de Vida 1 (1d4 – 1) \nDeslocamento 6 m \nFOR \n2 (–4) \nDES \n11 (+0) \nCON \n9 (–1) \nINT \n2 (–4) \nSAB \n10 (+0) \nCAR \n4 (–3) \nSentidos visão no escuro 9 m, Percepção passiva 10 \nIdiomas – \nNível de Desafio 0 (10 XP) \nFaro Aguçado. O rato tem vantagem em testes de Sabedoria \n(Percepção) relacionados ao olfato.  \nAÇÕES \n Mordida. Ataque Corpo-a-Corpo com Arma: +0 para atingir, \nalcance 1,5 m, um alvo. Acerto: 1 de dano perfurante."
     },
     {
       "name": "Tigre",
@@ -728,7 +741,8 @@
       "use": "Emboscada e combate.",
       "ref": "Apêndice D, Tigre, p. 311 (PDF 309)",
       "seen": false,
-      "note": "INT 3 aparece com −3 no bloco; tabela geral dá −4. Luci mantém INT +2."
+      "note": "INT 3 aparece com −3 no bloco; tabela geral dá −4. Luci mantém INT +2.",
+      "originalBlock": "TIGRE\nBesta grande, imparcial \nClasse de Armadura 12 \nPontos de Vida 37 (5d10 + 10) \nDeslocamento 12 m \nFOR \n17 (+3) \nDES \n15 (+2) \nCON \n14 (+2) \nINT \n3 (–3) \nSAB \n12 (+1) \nCAR \n8 (–1) \nPerícias Furtividade +6, Percepção +3 \nSentidos Percepção passiva 13 \nIdiomas – \nNível de Desafio 1 (200 XP) \nBote. Se o tigre se mover, pelo menos, 6 metros em linha reta em \ndireção de um alvo logo antes de atingi-lo com seu ataque de \ngarra, o alvo deve ser bem sucedido num teste de resistência de \nForça CD 13 para não cair no chão. Se o alvo cair no chão, o tigre \npoderá realizar uma ação bônus para realizar um ataque de \nmordida contra ele. \nFaro Aguçado. O tigre tem vantagem em testes de Sabedoria \n(Percepção) relacionados ao olfato.  \nAÇÕES \nMordida. Ataque Corpo-a-Corpo com Arma: +5 para atingir, \nalcance 1,5 m, um alvo. Acerto: 8 (1d10 + 3) de dano perfurante. \nGarras. Ataque Corpo-a-Corpo com Arma: +5 para atingir, alcance \n1,5 m, um alvo. Acerto: 7 (1d8 + 3) de dano cortante."
     },
     {
       "name": "Urso Negro",
@@ -753,7 +767,36 @@
       "use": "Combate e escalada quando tamanho Médio importa.",
       "ref": "Apêndice D, Urso Negro, p. 312 (PDF 310)",
       "seen": false,
-      "note": ""
+      "note": "",
+      "originalBlock": "URSO NEGRO\nBesta média, imparcial \nClasse de Armadura 11 (armadura natural) \nPontos de Vida 19 (3d8 + 6) \nDeslocamento 12 m, escalada 9 m \nFOR \n15 (+2) \nDES \n10 (+0) \nCON \n14 (+2) \nINT \n2 (–4) \nSAB \n12 (+1) \nCAR \n7 (–2) \nPerícias Percepção +3 \nSentidos Percepção passiva 13 \nIdiomas – \nNível de Desafio 1/2 (100 XP) \nFaro Aguçado. O urso tem vantagem em testes de Sabedoria \n(Percepção) relacionados ao olfato.  \nAÇÕES \nAtaques Múltiplos. O urso realiza dois ataques: um com sua \nmordida e um com suas garras. \n Mordida. Ataque Corpo-a-Corpo com Arma: +3 para atingir, \nalcance 1,5 m, um alvo. Acerto: 5 (1d6 + 2) de dano perfurante. \nGarras. Ataque Corpo-a-Corpo com Arma: +3 para atingir, alcance \n1,5 m, um alvo. Acerto: 7 (2d4 + 2) de dano cortante."
+    },
+    {
+      "name": "Cão da Morte",
+      "size": "Médio",
+      "cr": "1",
+      "ac": 12,
+      "hp": 39,
+      "hd": "6d8 + 12",
+      "movement": "12 m",
+      "attributes": [
+        15,
+        14,
+        14,
+        3,
+        13,
+        6
+      ],
+      "skills": "Furtividade +4, Percepção +5",
+      "senses": "visão no escuro 36 m, Percepção passiva 15",
+      "features": "Duas Cabeças: vantagem em Percepção e salvaguardas para não ser amedrontado, atordoado, cegado, enfeitiçado, ensurdecido ou derrubado inconsciente.",
+      "attack": "Ataques Múltiplos: duas mordidas. Mordida +4, 1d6+2 perfurante, alcance 1,5 m; CON CD 12 contra doença.",
+      "use": "Combate: duas mordidas; exploração com visão no escuro. Exceção de Forma Selvagem aprovada pelo mestre.",
+      "seen": true,
+      "homebrew": true,
+      "ref": "Regra da casa aprovada pelo mestre; ficha da imagem enviada pelo jogador (não consta no PDF permitido).",
+      "note": "Tipo Monstruosidade: forma habilitada por exceção aprovada pelo mestre, não pela regra oficial. Doença e seus efeitos devem ser registrados na criatura atingida.",
+      "originalImage": "cao-da-morte-ficha-referencia.png",
+      "originalBlock": "CÃO DA MORTE\nMonstruosidade Média, neutro e mau\nClasse de Armadura 12\nPontos de Vida 39 (6d8 + 12)\nDeslocamento 12 m\nFOR 15 (+2)  DES 14 (+2)  CON 14 (+2)\nINT 3 (-4)  SAB 13 (+1)  CAR 6 (-2)\nPerícias Furtividade +4, Percepção +5\nSentidos visão no escuro 36 m, Percepção passiva 15\nIdiomas —\nNível de Desafio 1 (200 XP)\nDuas Cabeças. O cão tem vantagem em testes de Sabedoria (Percepção) e em testes de resistência para não ser amedrontado, atordoado, cegado, enfeitiçado, ensurdecido ou derrubado inconsciente.\nAÇÕES\nAtaques Múltiplos. O cão realiza dois ataques de mordida.\nMordida. Ataque Corpo-a-Corpo com Arma: +4 para atingir, alcance 1,5 m, um alvo. Acerto: 5 (1d6 + 2) de dano perfurante. Se o alvo for uma criatura, ela deve ser bem sucedida num teste de resistência de Constituição CD 12 contra doença, ou ficará envenenada até a doença ser curada. A cada 24 horas que se passarem, a criatura deve repetir o teste de resistência, reduzindo seu máximo de pontos de vida em 5 (1d10) se fracassar. Essa redução dura até a doença ser curada. A criatura morre se a doença reduzir seu máximo de pontos de vida a 0.\nO cão da morte é um cão horrendo de duas cabeças que vaga por planícies, desertos e pelo Subterrâneo. O ódio queima no coração de um cão da morte e o gosto pela carne humanoide o leva a atacar viajantes e exploradores. A saliva de um cão da morte carrega uma doença vil que faz com que a carne da vítima apodreça lentamente e vá soltando-se dos ossos."
     }
   ],
   "refs": {
